@@ -1,0 +1,19 @@
+.rightDiv-Item-1 {
+  display: flex;
+
+  height: 15%;
+}
+.background {
+  padding: 10px;
+  border-radius: 18px;
+  width: 100%;
+  background-color: white;
+}
+
+.No-data-div {
+  font-size: 17px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid;
+  border-radius: 8px;
+}

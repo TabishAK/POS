@@ -1,0 +1,78 @@
+h1 {
+  font-size: 2em;
+  padding: 1em 0;
+}
+h2 {
+  font-size: 1.6em;
+  padding: 0.5em 0;
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.app {
+  padding: 20px;
+}
+
+.section {
+  padding-top: 30px;
+}
+
+.subCollapse {
+  padding: 20px;
+}
+
+.text {
+  margin: 0;
+}
+
+.text p {
+  margin: 0;
+  padding: 10px;
+}
+
+.config {
+  padding-bottom: 20px;
+}
+
+.label {
+  width: 100%;
+  border-radius: 10px;
+  padding: 15px 31px 11px 10px;
+  margin-top: 15px;
+  margin-left: 18px;
+  background-color: white;
+  display: flex;
+  position: relative;
+}
+.input {
+  margin-right: 10px;
+  margin-left: 10px;
+  vertical-align: middle;
+}
+
+.blob {
+  background: white;
+  margin-left: 18px;
+  width: 100%;
+  border-radius: 15px;
+  top: -43px;
+  position: relative;
+  height: 163px !important;
+}
+
+.log {
+  padding: 0.5em;
+  font-size: 0.6em;
+  font-family: Menlo, Consolas, Monospaced, monospace;
+}
+
+.ReactCollapse--collapse {
+  max-width: 800px;
+
+  transition: height 50ms;
+}
+
+.ReactCollapse--content {
+}
